@@ -1,0 +1,14 @@
+.result{
+    width: 100%;
+    margin-top: 50px;
+}
+.list{
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    margin-top: 20px;
+    align-items: center;
+}
+li{
+    margin: 10px;
+}
